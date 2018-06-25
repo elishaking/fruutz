@@ -1,0 +1,8 @@
+{
+  "name": "fruutz",
+  "app_id": "d88bfe01",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
